@@ -16,4 +16,4 @@ while (size <= b)
     result = result * a;
     size++;
 }
-Console.WriteLine(result);
+Console.WriteLine($"{a},{b} ->{result}");
